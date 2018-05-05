@@ -1,9 +1,9 @@
-# IDS6145(SimTech 2018) - Research Plan (Template)
-(remember all text between brackets to be removed in proposal and final, like template above)
+# IDS6145(SimTech 2018) - Research Plan
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * **Group Name:** Neuromancer
+> * **Group participants names:** Samantha Warta
+> * **Project Title:** ***Do you see what A.I. see?*** 
+*Lens Model Sensor Integration: Implementation of a Social Signal Processing System in a Robotic Platform*
 
 (Abstract here - basically your pitch with some modification - but short overview)
 (TEASER IMAGE HERE - should wow me to read your work)
@@ -64,4 +64,4 @@
 (final only - remove whole section for proposal Readme) (if you had 6 more months what would be the next steps in this project.) (What are a few questions you have now)
 
 ## References
-(Add the bibliographic references you intend to use)  (Code / Projects / blogs / websites / papers...)
+[**References**](references/README.md)
